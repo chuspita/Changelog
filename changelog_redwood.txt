@@ -1,0 +1,8 @@
+====================
+     10-06-2023
+====================
+
+* initial AlphaDroid stable build
+* Add Dolby Atmos
+* Add Google Camera mod
+* Add KernelSU support
