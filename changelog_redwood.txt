@@ -6,3 +6,4 @@
 * Add Dolby Atmos
 * Add Google Camera mod
 * Add KernelSU support
+* Aosp dialer added
