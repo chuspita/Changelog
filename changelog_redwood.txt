@@ -1,4 +1,14 @@
 ====================
+     24-07-2023
+====================
+* Switch Aperture Camera
+* Added ViPER4AndroidFX 
+* KernelSU update
+* Update blobs from V14.0.2.0.TMSMIXM
+* Fixed Padding
+* More things that improvise the system...
+
+====================
      10-06-2023
 ====================
 
