@@ -3,6 +3,8 @@
 ====================
 * Fixed PIP youtube
 * Switch Atomx Kernel
+* Boost audio output
+* Remove unwanted packages
 
 ====================
      24-07-2023
