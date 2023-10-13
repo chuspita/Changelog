@@ -1,4 +1,12 @@
 ====================
+     13-10-2023
+====================
+* Switch lineage kernel
+* Update MotoDolby
+* KernelSU supported
+* Improved Sound
+
+====================
      08-08-2023
 ====================
 * Fixed PIP youtube
